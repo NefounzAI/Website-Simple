@@ -1,7 +1,5 @@
-[![Twitter Badge](https://img.shields.io/badge/-@K-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Kunal_Raghav_)](https://twitter.com/_Kunal_Raghav_) [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/kunalraghav/) [![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/)
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:kraghav123@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-kunalraghav.github.io-orange?style=flat-square&logo=html5&logoColor=white&link=https://kunalraghav.github.io)](https://kunalraghav.github.io)
-
+[![Twitter Badge](https://img.shields.io/badge/-@RifqiKunn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=[[https://twitter.com/_Kunal_Raghav_](https://twitter.com/RifqiKunn)](https://twitter.com/RifqiKunn))]([https://twitter.com/_Kunal_Raghav_](https://twitter.com/RifqiKunn))
+[![Gmail Badge](https://img.shields.io/badge/-rifqikunn1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:kraghav123@gmail.com)
 ## Hi 👋, 
 I'm Rifqii, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self procliamed graphic designer and internet surfer 
 🏄‍♂️. 
