@@ -24,3 +24,8 @@ To get a local copy of this project up and running, follow these simple steps:
    ```bash
    git clone
    ```
+ 2. Clone the repository:
+   ```bash
+   cd name
+   ```
+ 3. Open index.html 
