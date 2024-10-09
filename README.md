@@ -26,6 +26,6 @@ To get a local copy of this project up and running, follow these simple steps:
    ```
  2. Clone the repository:
    ```bash
-   cd name
+      cd name
    ```
  3. Open index.html 
